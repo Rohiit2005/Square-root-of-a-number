@@ -29,7 +29,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![exp2(b)](https://github.com/Rohiit2005/Square-root-of-a-number/assets/138849178/ebdcfc2f-5e15-429d-9833-a1e92fc42792)
+![exp2(b)](https://github.com/Rohiit2005/Square-root-of-a-number/assets/138849178/e86fa07a-e2da-4164-a990-3a85e0ac2b47)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming
